@@ -7,8 +7,8 @@
 # object - a list of functions to:
 # 1. set the matrix
 # 2. get the matrix
-# 3. set the value of the inverse
-# 4. get the value of the inverse
+# 3. set the inverse matrix
+# 4. get the inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
